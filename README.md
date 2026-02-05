@@ -1,4 +1,4 @@
-# FavoriteBooks
+# FavoriteBooks 📚
 
 A lightweight iOS app for keeping a personal list of favorite books.  
 Add a book with title/author, optionally attach a cover image and a short description, then sort and filter your collection.
