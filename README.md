@@ -27,8 +27,7 @@ Add a book with title/author, optionally attach a cover image and a short descri
 ## Requirements
 
 - Xcode (SwiftUI project)
-- iOS version supporting **Observation** (`@Observable`) and modern SwiftUI APIs  
-  *(typically iOS 17+ depending on your Xcode toolchain)*
+- iOS version supporting **Observation** (iOS 17+)
 
 ## How to Run
 
